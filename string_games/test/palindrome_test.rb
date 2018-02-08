@@ -1,6 +1,7 @@
 require_relative 'test_helper.rb'
 
 require './lib/palindrome.rb'
+require 'pry'
 
 class PalindromeTest < Minitest::Test
 
